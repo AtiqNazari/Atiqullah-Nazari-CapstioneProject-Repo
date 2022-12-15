@@ -10,7 +10,7 @@ Feature: Retail Account page
    
   @Test11 #passed
   Scenario: Verify User can update Profile Information
-    And User update Name 'Jason Ramerio' and Phone '980 222 1178'
+    And User update Name 'Jasson Ramerio' and Phone '980 222 2258'
     And User click on Update button
     Then user profile information should be updated
     

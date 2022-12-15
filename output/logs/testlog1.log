@@ -2416,3 +2416,22 @@
 2022-12-15 02:39:53,310 [main] INFO logger_file - user update name a phone number
 2022-12-15 02:39:53,368 [main] INFO logger_file - user click on update button
 2022-12-15 02:39:53,979 [main] INFO logger_file - information should be updated successfully
+2022-12-15 03:04:25,531 [main] INFO logger_file - user click on signINButton
+2022-12-15 03:04:25,690 [main] INFO logger_file - User provided email and password
+2022-12-15 03:04:25,741 [main] INFO logger_file - user should be logged in into the account now
+2022-12-15 03:04:26,007 [main] INFO logger_file - user click on account option in home pagee
+2022-12-15 03:04:26,223 [main] INFO logger_file - user update name a phone number
+2022-12-15 03:04:26,274 [main] INFO logger_file - user click on update button
+2022-12-15 03:04:26,958 [main] INFO logger_file - information should be updated successfully
+2022-12-15 03:05:45,232 [main] INFO logger_file - user click on signINButton
+2022-12-15 03:05:45,410 [main] INFO logger_file - User provided email and password
+2022-12-15 03:05:45,468 [main] INFO logger_file - user should be logged in into the account now
+2022-12-15 03:05:45,743 [main] INFO logger_file - user click on account option in home pagee
+2022-12-15 03:05:45,981 [main] INFO logger_file - user update name a phone number
+2022-12-15 03:06:11,736 [main] INFO logger_file - user click on signINButton
+2022-12-15 03:06:11,909 [main] INFO logger_file - User provided email and password
+2022-12-15 03:06:11,963 [main] INFO logger_file - user should be logged in into the account now
+2022-12-15 03:06:12,231 [main] INFO logger_file - user click on account option in home pagee
+2022-12-15 03:06:12,475 [main] INFO logger_file - user update name a phone number
+2022-12-15 03:06:12,535 [main] INFO logger_file - user click on update button
+2022-12-15 03:06:13,162 [main] INFO logger_file - information should be updated successfully
